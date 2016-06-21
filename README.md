@@ -1,9 +1,7 @@
 CSS MQPacker
 ============
 
-Pack same CSS media query rules into one media query rule.
-
-Written with [PostCSS][1].
+A tool for packing same CSS media query rules into one with [PostCSS][1]
 
 
 SYNOPSIS
